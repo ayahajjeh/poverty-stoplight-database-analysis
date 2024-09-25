@@ -1,11 +1,9 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
-
 # <span style="color:Crimson">Cases to Explore</span>
 
 <span style="color:Crimson; font-size: 10pt">_Poverty Stoplight Platform Database Analysis_</span>
 
 <span style="color:blue">_Guidelines:_</span>
-Below are the types of issues that were identified in the poverty stoplight platform database. For each issue, I provide 1) a descriptoin of the issue as it was provided to me by my supervisor, Alexis Risaldi, and then 2) how I identified the issues in the dataset, and 3) how I answered the analysis questions, along with screenshots of the results for the three database excel files I had (attached in the zip file). Additionally, all the results and analysis that you see below are exported into new excel files (attached in the zip file) that you are welcome to look over. You can generate similar exported excel files by replacing the input excel files and matching the new excel file names into the Python script provided. Lastly, when using the Python script provided, please make sure to download any necessary libraries on your local device, and if you don't have the right setup to run Jupyter Notebooks locally on your device, you can upload the notebook into a Google Colab file, and the you'll be able to run the script remotely. Feel free to reach out to me, Aya Hajjeh, at ayabaselhajjeh@gmail.com for any troubleshooting assistance needed.
+Below are the types of issues that were identified in the poverty stoplight platform database. For each issue, I provide 1) a descriptoin of the issue as it was provided to me by my supervisor, Alexis Risaldi, and then 2) how I identified the issues in the dataset, and 3) how I answered the analysis questions, along with screenshots of the results for the three database excel files I was provided by my sipervisor. Additionally, all the results and analysis that you see below can be exported into new excel files that you are welcome to look over. You can generate similar exported excel files by replacing the input excel files and matching the new excel file names into the Python script provided. Lastly, when using the Python script provided, please make sure to download any necessary libraries on your local device, and if you don't have the right setup to run Jupyter Notebooks locally on your device, you can upload the notebook into a Google Colab file, and then you'll be able to run the script remotely.
 
 ## <span style="color:Navy">1. Surveys that are geographically misplaced</span>
 
